@@ -19,6 +19,9 @@ This project predicts house prices using Machine Learning.
 - Scikit-learn
 - Streamlit
 
+  <img width="524" height="435" alt="image" src="https://github.com/user-attachments/assets/45834988-e4d1-4180-9b4d-5b6e049f476a" />
+
+
 ## Project Structure
 
 House/
